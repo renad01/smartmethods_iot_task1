@@ -36,7 +36,7 @@ void loop() {
 ![task1_speech2](https://user-images.githubusercontent.com/74248225/178168160-4c2306ad-6e5b-4e2d-93af-0af66c976857.PNG)
 
 ## Output of Task 1.2 :
-![task1_esp32](https://user-images.githubusercontent.com/74248225/178168180-ad9743fd-42d0-45dd-966e-b8cba0f2cc4a.PNG)
+![task1_esp32](https://user-images.githubusercontent.com/74248225/178169116-e2954996-1d07-46a6-b30e-8db3f1f0e826.PNG)
 # References :
 1.	https://www.youtube.com/watch?v=rwB6RqqCmXc&t=3s
 2.  https://www.w3schools.com/css/default.asp

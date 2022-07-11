@@ -37,7 +37,7 @@ void loop() {
 
 ## Output of Task 1.2 :
 ![task1_esp32](https://user-images.githubusercontent.com/74248225/178168180-ad9743fd-42d0-45dd-966e-b8cba0f2cc4a.PNG)
-# References
+# References :
 1.	https://www.youtube.com/watch?v=rwB6RqqCmXc&t=3s
 2.  https://www.w3schools.com/css/default.asp
 4.	https://www.w3schools.com/js/default.asp

@@ -7,11 +7,11 @@
  - Install Arduino IDE
  - Preparing the ESP32 Board in Arduino IDE
 ### Steps:
-Plug the ESP32 to your PC or laptop by using micro cable.
-1. Go to file > preferences , put the package link to the esp32 https://dl.espressif.com/dl/package_esp32_index.json > ok
-2. Go to Tools > Board > Boards Manager > from the search bar write "esp32" > click on install.
-3. Go to Tools > Board > select the name of your ESP32 board.
-4. Go to Tools > Port and select a COM port available.
+1. Plug the ESP32 to your PC or laptop by using micro cable.
+2. Go to file > preferences , put the package link to the esp32 https://dl.espressif.com/dl/package_esp32_index.json > ok
+3. Go to Tools > Board > Boards Manager > from the search bar write "esp32" > click on install.
+4. Go to Tools > Board > select the name of your ESP32 board.
+5. Go to Tools > Port and select a COM port available.
 6. write the following code in arduion editor :
 ```C++ 
 // the setup function runs once when you press reset or power the board
